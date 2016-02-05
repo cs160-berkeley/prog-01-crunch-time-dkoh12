@@ -17,6 +17,7 @@ See [Calorie Converter] (https://www.youtube.com/watch?v=N3yOQNkfHOY&feature=you
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 <img src="screenshots/one.png" height="400" alt="Screenshot"/>
 <img src="screenshots/two.png" height="400" alt="Screenshot"/>
+<img src="screenshots/three.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 

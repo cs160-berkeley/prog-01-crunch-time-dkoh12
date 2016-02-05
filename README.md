@@ -10,11 +10,13 @@ David Koh ([dkoh@berkeley.edu](mailto:dkoh@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Calorie Converter] (https://www.youtube.com/watch?v=N3yOQNkfHOY&feature=youtu.be)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/one.png" height="400" alt="Screenshot"/>
+<img src="screenshots/two.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 

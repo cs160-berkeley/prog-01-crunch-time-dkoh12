@@ -1,6 +1,7 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+My app is called Calorie Converter. The user selects an excercise and enters how many reps or minutes of that exercise he has done. The user then selects another exercise he would want to convert to. When the user presses the convert button, the number of calories burned for a 150lb person is calculated and the number of minutes or reps of the other exercise is calculated.
+
 
 ## Authors
 
